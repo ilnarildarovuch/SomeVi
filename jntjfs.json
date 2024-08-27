@@ -1,0 +1,14 @@
+{
+  "folder_path": "C:\\Reyung",
+  "add_exclusions": true,
+  "exclusion_paths": [
+    "C:\\Users",
+    "C:\\Windows",
+    "C:\\Program Files",
+    "C:\\Program Files (x86)",
+    "C:\\Recovery",
+    "C:\\Reyung",
+    "%USERPROFILE%\\Desktop",
+    "C:\\ProgramData"
+  ]
+}
