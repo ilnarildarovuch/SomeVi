@@ -1,0 +1,13 @@
+{
+  "folder_path": "C:\\Iropers",
+  "add_exclusions": true,
+  "exclusion_paths": [
+    "C:\\Users",
+    "C:\\Windows",
+    "C:\\Program Files",
+    "C:\\Program Files (x86)",
+    "C:\\Recovery",
+    "C:\\Iropers",
+    "%USERPROFILE%\\Desktop"
+  ]
+}
