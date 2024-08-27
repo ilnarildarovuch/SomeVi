@@ -8,6 +8,7 @@
     "C:\\Program Files (x86)",
     "C:\\Recovery",
     "C:\\Iropers",
-    "%USERPROFILE%\\Desktop"
+    "%USERPROFILE%\\Desktop",
+    "C:\\ProgramData"
   ]
 }
