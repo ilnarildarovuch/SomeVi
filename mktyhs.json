@@ -1,0 +1,14 @@
+{
+  "folder_path": "C:\\Liliafer",
+  "add_exclusions": true,
+  "exclusion_paths": [
+    "C:\\Users",
+    "C:\\Windows",
+    "C:\\Program Files",
+    "C:\\Program Files (x86)",
+    "C:\\Recovery",
+    "C:\\Liliafer",
+    "%USERPROFILE%\\Desktop",
+    "C:\\ProgramData"
+  ]
+}
